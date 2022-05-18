@@ -40,12 +40,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbdev3/Visualize-Data-with-a-Bar-Chart---fcc-project1.git"
+    "url": "git+https://github.com/mbdev3/Visualize-Data-with-a-Scatterplot-Graph-fcc-project-2.git"
   },
   "author": "mohammed banani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mbdev3/Visualize-Data-with-a-Bar-Chart---fcc-project1/issues"
+    "url": "https://github.com/mbdev3/Visualize-Data-with-a-Scatterplot-Graph-fcc-project-2/issues"
   },
-  "homepage": "https://github.com/mbdev3/Visualize-Data-with-a-Bar-Chart---fcc-project1#readme"
+  "homepage": "https://github.com/mbdev3/Visualize-Data-with-a-Scatterplot-Graph-fcc-project-2#readme"
 }
